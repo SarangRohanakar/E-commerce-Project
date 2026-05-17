@@ -11,7 +11,6 @@ node_modules/
 /dist
 
 # Development Environment Variables
-.env
 .env.local
 .env.development.local
 .env.test.local
